@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+  },
+  "exclude": [
+    "bin",
+    "node_modules",
+    "obj",
+    "platforms"
+  ]
+}
